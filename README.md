@@ -9,5 +9,5 @@ Aquele que completar 5 pontos vence!
 2.  Abra seu terminal na pasta que se encontra o arquivo.
 3.  Execute com python || python3 e divirta-se
 
-## License
+## Licença
 Arquivo totalmente voltado para fins didáticos.
